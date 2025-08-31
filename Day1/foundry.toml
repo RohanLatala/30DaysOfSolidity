@@ -1,0 +1,5 @@
+[profile.day1]
+src = "Day1/src"
+out = "Day1/out"
+cache_path = "Day1/cache"
+
